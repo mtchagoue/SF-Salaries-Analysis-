@@ -105,3 +105,5 @@ The visualization looks like this:
 
 ![image](https://github.com/mtchagoue/Retail-data-analysis/assets/115325778/f03c005e-8921-4633-beb2-513aeface325)
 
+![image](https://github.com/mtchagoue/Retail-data-analysis/assets/115325778/068c9cc5-ac0b-4cde-bc53-06530b605ec5)
+
